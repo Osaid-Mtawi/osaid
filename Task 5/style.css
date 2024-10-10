@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 226, 218);
+    height: 95vh;
+    margin-left: 30%;
+}
+img {
+    height: 470px;
+    width: 350px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .ss{
+    font-size: large;
+    width: 350px;
+    height: 470px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #f0f0f0;
+  }
+.h1{
+  margin-left: 10%;
+}
+.perfume{
+  margin-left: 10%;
+  color: #999;
+}
+.p{
+  margin-left: 10%;
+  color: #999;
+}
+
+.price{
+    margin-left: 25%;
+    font-size: 40px;
+    color: #083b0a;
+    font-weight: bold;
+}
+.old-price{
+    margin-left: 30%;
+    font-size: 30px;
+    text-decoration: line-through;
+    color: #999;
+}
+button{
+width: 260px;
+height: 70px;  
+background-color: #083b0a;
+color: #f0f0f0;
+border: none;
+border-radius: 10px;
+padding: 15px 20px;
+margin-left: 10%;
+margin-top: 20px;
+font-size: large;
+display: inline-block;
+}
+.button:hover {
+    background-color: hsl(160, 43%, 3%);
+  }
+  .attribution {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 10%;
+  }
+  
+  .attribution a {
+    color: #c00;
+  }
+
