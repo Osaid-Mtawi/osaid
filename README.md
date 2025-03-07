@@ -1,25 +1,22 @@
-عنوان المشروع
+Pomodoro Timer App
+Description
+A Pomodoro Timer application that helps users manage their time using the Pomodoro technique. Users can set work and break durations, with automatic transitions between sessions.
 
-Pomodoro Timer Osaid
-وصف مختصر
+-Features:
+Two modes: Work and Break
+Customizable work and break durations
+Clear visual display of remaining time
+Start, Pause, and Reset buttons
+Automatic switching between work and break sessions
+Long break after four work sessions
+Organized using ES Modules
+Bundled using Webpack
 
-تطبيق مؤقت بومودورو يساعد المستخدمين على إدارة وقتهم باستخدام تقنية البومودورو، حيث يمكنهم ضبط مؤقت للعمل والاستراحة، مع إمكانية تخصيص المدة الزمنية.
-المميزات
+-Requirements:
+Node.js installed
+Webpack for bundling
 
-وضعان: العمل والاستراحة
-إمكانية ضبط مدة العمل والاستراحة
-عرض مرئي للوقت المتبقي
-أزرار للتحكم (بدء، إيقاف مؤقت)
-التنقل التلقائي بين جلسات العمل والاستراحة
-استراحة طويلة بعد 4 جلسات عمل
-استخدام ES Modules لتنظيم الكود
-تجميع الكود باستخدام Webpack
-متطلبات التشغيل
-
-Node.js مثبت على الجهاز
-Webpack لتجميع الملفات
-التقنيات المستخدمة
-
+-Technologies Used:
 JavaScript (ES Modules)
 Webpack
 HTML, CSS
